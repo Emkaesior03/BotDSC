@@ -1,0 +1,1 @@
+[null,{"name":"ban","permissions":"ADMINISTRATOR","restriction":"1","_id":"XQHVR","actions":[{"member":"0","varName":"","reason":"","days":"","name":"Ban Member"},{"channel":"0","varName":"","message":"Gracz ${mentionedUser} został zbanowany.","storage":"0","varName2":"","name":"Send Message"}]}]
